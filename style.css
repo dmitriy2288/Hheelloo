@@ -5,3 +5,7 @@ header {
 main {
 	background-color: black;
 } 
+
+main h1 {
+	text-align: centre;
+} 
