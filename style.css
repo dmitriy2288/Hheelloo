@@ -5,6 +5,11 @@ header {
 header img {
 	width: 20px;
    	height: 30px;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
 
 main {
 	background-color: white;
