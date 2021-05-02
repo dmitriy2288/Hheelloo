@@ -5,7 +5,7 @@ header {
 header img {
 	width: 20px;
    	height: 30px;
-	padding: 5px 10px 5px 5px;
+	padding: 5px;
 }
 
 header a {
@@ -15,7 +15,7 @@ header a {
 
 header p {
 	color: white;
-	padding: 50px;
+	padding: 5px 5px 5px 50px;
 }
 
 main {
