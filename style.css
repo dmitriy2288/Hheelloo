@@ -1,5 +1,5 @@
 header {
-   	background-color: blue;
+   	background-color: black;
 } 
 
 header img {
@@ -21,3 +21,13 @@ main h1 {
 	font-size: 50px
 	color: black;
 } 
+
+footer {
+	background-color: black;
+}
+
+footer a {
+	color: white;
+	text-decoration: none;
+}
+	
