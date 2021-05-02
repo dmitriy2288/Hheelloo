@@ -4,13 +4,14 @@ header {
 
 header img {
 	width: 20px;
-   	height: 10px;
+   	height: 30px;
 
 main {
 	background-color: white;
 } 
 
 main h1 {
-	text-align: centre;
-	color: blue;
+	text-align: center;
+	font-size: 50px
+	color: black;
 } 
