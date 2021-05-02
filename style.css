@@ -14,7 +14,7 @@ header a {
 }
 
 header p {
-	color: black;
+	color: white;
 }
 
 main {
@@ -34,6 +34,6 @@ footer {
 footer a {
 	color: white;
 	text-decoration: none;
-	padding: 0px 0px 0px 50px;
+	padding: 0px 0px 0px 10px;
 }
 	
