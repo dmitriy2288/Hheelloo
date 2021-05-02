@@ -2,10 +2,15 @@ header {
    	background-color: blue;
 } 
 
+header img {
+	width: 20px;
+   	height: 10px;
+
 main {
 	background-color: white;
 } 
 
-h1 main {
+main h1 {
 	text-align: centre;
+	color: blue;
 } 
