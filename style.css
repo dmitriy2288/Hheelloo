@@ -17,6 +17,10 @@ main {
 	background-color: white;
 } 
 
+main p {
+	font-size: 20px;
+}
+
 main h1 {
 	text-align: center;
 	font-size: 60px;
