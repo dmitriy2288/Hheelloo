@@ -8,13 +8,9 @@ header img {
 	padding: 5px;
 }
 
-header a {
+header table {
 	color: white;
 	text-decoration: none;
-}
-
-header p {
-	color: white;
 }
 
 main {
@@ -23,9 +19,14 @@ main {
 
 main h1 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
 	color: black;
 } 
+
+.b {
+	height: 70px;
+	width: 50px;
+}
 
 footer {
 	background-color: black;
