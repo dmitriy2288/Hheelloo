@@ -17,6 +17,7 @@ header a {
 .vr {
 	text-decoration: none;
 	border-radius: 5px;
+	border: solid rgb(230, 187, 48) 2px;
 }
 
 main {
