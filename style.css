@@ -2,10 +2,6 @@ header {
    	background-color: black;
 } 
 
-.vr {
-   	color: white;
-} 
-
 header img {
 	width: 20px;
    	height: 30px;
@@ -16,6 +12,11 @@ header a {
 	text-decoration: none;
 	color: white;
 	font-size: 15px;
+}
+
+.vr {
+	text-decoration: none;
+	border-radius: 5px;
 }
 
 main {
