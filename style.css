@@ -16,6 +16,7 @@ header table {
 header a {
 	text-decoration: none;
 	color: white;
+	font-size: 15px;
 }
 
 main {
@@ -45,5 +46,6 @@ footer a {
 	color: white;
 	text-decoration: none;
 	padding: 0px 0px 0px 10px;
+	font-size: 15px;
 }
 	
