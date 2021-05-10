@@ -10,12 +10,6 @@ header img {
 
 header a {
 	text-decoration: none;
-	color: white;
-	font-size: 15px;
-}
-
-.vr {
-	text-decoration: none;
 	border-radius: 5px;
 	border: solid rgb(230, 187, 48) 2px;
 	background-color: rgb(230, 187, 48);
