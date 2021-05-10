@@ -11,7 +11,7 @@ header img {
 header a {
 	text-decoration: none;
 	border-radius: 5px;
-	border: solid 2px yellow ;
+	border: solid yellow 2px;
 	background-color: yellow;
 	padding: 4px;
 	margin: 5px;
